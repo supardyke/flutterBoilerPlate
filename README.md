@@ -1,6 +1,6 @@
-# investment_tracker
+# flutterBoilerPlate
 
-An investment tracking app
+A flutter Boiler plate for your any project
 
 ## Getting Started
 
